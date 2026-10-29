@@ -1,5 +1,55 @@
 ---
 title: "Proposal"
+subtitle: "STAT 112- Group 2 Project Proposal"
+author: "Jack Brewer, Ben Beauvais"
 ---
 
-Your proposal go here.
+## Preliminary Project Details
+
+**Title:** The Art of Pitching: An Examination of Various Predictors' Effects on ERA Among MLB Pitchers
+
+**Team Members:** Jack Brewer, Ben Beauvais.
+
+**Project Description:**
+
+Pitchers are often told to chase certain metrics in order to improve their overall success (commonly measured in ERA). However, not everyone is told the same thing, leading to pitchers chasing a wide range of metrics such as velocity, spin-rate, command, and whiff rate. Not only are pitchers chasing different metrics, but they can also excel in these metrics without seeing improvements in ERA. The purpose of this project is to gain a better understanding of which metrics show a larger overall effect on ERA, thus giving pitchers a better idea of what they should be focusing on.
+
+**2-3 Broad Research Questions**
+
+1.  What is the relationship between velocity and era?
+2.  Which metric is the best predictor of era?
+3.  What is the relationship between expected and observed ERA?
+
+**Inspiration:**
+
+- Both of us were pitchers growing up, and are also pitchers here at Macalester on the baseball team. The inspiration for this project comes from a wealth of personal experience, as well as genuine interest in the topic.
+
+**Potential Data Set:**
+
+<https://huggingface.co/datasets/michaelmallari/mlb-statcast-pitchers?>
+
+## Teamwork Details
+
+**Communication Plan:**
+
+- We will communicate through Snapchat and GMail. We will aim to meet every Sunday from 2-4 pm. An appropriate response time for messages is 10 hours.
+
+**Teammate Roles:**
+
+- Ben will act as the point of contact for instructor/preceptor communication. Jack will act as the technical lead for the project. Since there are only two of us in the group, we will each be responsible for making sure our code is adhering to the style guide.
+
+**Conflict Resolution Plan:**
+
+- Since we are very good friends and rather like-minded, we do not anticipate any major conflict. However, if there is some sort of disagreement, we will try our best to deal with it amongst each other before taking it to the instructor.
+
+**Rough Implementation Plan:**
+
+11/9- Preliminary Data Upload and Wrangling
+
+11/16 External Topic Research
+
+11/30 Data Visualization and Analysis
+
+12/7 Data Write Up
+
+12/14- Turn In
