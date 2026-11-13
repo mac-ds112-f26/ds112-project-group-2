@@ -1,5 +1,37 @@
 ---
 title: "Case Study"
+subtitle: "STAT 112 Project- Group 2"
+author: "Jack Brewer, Ben Beauvais"
 ---
 
-Your case study go here.
+**Source Material:**
+
+The fallen soldiers of the Russian army: Making datavis organic \| jonasoesch. (n.d.). Retrieved November 14, 2026 from https://www.jonasoesch.ch/portfolio/russian-soldiers/
+
+**Prompt:**
+
+As a team, members should study one of the professional reports linked in the Expectation section (or something in a comparable quality) then record their observations about its data story structure, ie, how the report unfolds the story. The analysis should be added to appx/case-study.qmd file. Make sure to cite the referenced resources.
+
+**Observations:**
+
+**Ben-**
+
+Transparency gradients drawn in Figma make some areas denser than others, for example incoming soldiers get denser toward the right.
+
+The last section is about tools, saying common tools lack support for randomness and unit visualizations.
+
+The page ends with a contact line (email, Bluesky, LinkedIn).
+
+There is no separate research question or limitations section, and the page doesn’t discuss uncertainty in the estimates.
+
+**Jack-**
+
+Method is linked in first paragraph of writing.
+
+This write-up is written for someone with prior experience/knowledge in this topic. There isn't much history given.
+
+Discussion of workflow and visualization development is given, including addressing initial limitations.
+
+Figma-exported viz was modified in Observable.
+
+To address randomness and variability deficiencies, multiple layers were added across both platforms.
