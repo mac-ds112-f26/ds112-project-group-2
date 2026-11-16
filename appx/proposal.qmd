@@ -1,6 +1,5 @@
 ---
 title: "Proposal"
-subtitle: "STAT 112- Group 2 Project Proposal"
 author: "Jack Brewer, Ben Beauvais"
 ---
 
